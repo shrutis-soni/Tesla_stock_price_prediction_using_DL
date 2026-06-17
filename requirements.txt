@@ -6,4 +6,4 @@ scikit-learn
 tensorflow
 streamlit
 ipykernel
-Python==3.10.10
+
